@@ -1,0 +1,32 @@
+2026-08-17 00:51:41.314 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=1h5m32s273ms).
+2026-08-17 01:23:17.013 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=31m35s699ms).
+2026-08-17 02:03:31.763 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=40m14s750ms).
+2026-08-17 02:52:34.192 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=49m2s429ms).
+2026-08-17 03:08:16.913 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=15m42s721ms).
+2026-08-17 04:10:57.200 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=1h2m40s287ms).
+2026-08-17 04:44:50.931 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=33m53s731ms).
+2026-08-17 05:18:26.338 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=33m35s407ms).
+2026-08-17 06:15:13.079 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=56m46s741ms).
+2026-08-17 06:33:34.765 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=18m21s685ms).
+2026-08-17 07:26:04.139 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=52m29s375ms).
+2026-08-17 07:30:13.418 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=4m9s279ms).
+2026-08-17 07:35:16.228 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=5m2s810ms).
+2026-08-17 08:13:17.442 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=38m1s214ms).
+2026-08-17 08:44:32.083 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=31m14s641ms).
+2026-08-17 08:56:33.295 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=12m1s212ms).
+2026-08-17 09:34:05.490 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=37m32s195ms).
+2026-08-17 09:46:13.110 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=12m7s620ms).
+2026-08-17 09:59:16.009 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=13m2s899ms).
+2026-08-17 10:03:38.924 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=4m22s915ms).
+2026-08-17 10:18:13.846 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=14m34s922ms).
+2026-08-17 10:26:42.447 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=8m28s601ms).
+2026-08-17 11:07:32.449 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=1m19s601ms).
+2026-08-17 11:46:41.753 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=7m9s97ms).
+2026-08-17 11:48:21.448 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=1m9s675ms).
+2026-08-17 12:03:20.925 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=14m29s476ms).
+2026-08-17 13:02:27.986 [HikariPool-14:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool [HikariPool.java:825] - HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=6m2s825ms).
+2026-08-17 16:54:50.529 [SpringApplicationShutdownHook] INFO  o.s.boot.tomcat.GracefulShutdown [GracefulShutdown.java:54] - Commencing graceful shutdown. Waiting for active requests to complete
+2026-08-17 16:54:50.535 [tomcat-shutdown] INFO  o.s.boot.tomcat.GracefulShutdown [GracefulShutdown.java:76] - Graceful shutdown complete
+2026-08-17 16:54:50.545 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean [AbstractEntityManagerFactoryBean.java:693] - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-08-17 16:54:50.549 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource [HikariDataSource.java:349] - HikariPool-14 - Shutdown initiated...
+2026-08-17 16:54:50.553 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource [HikariDataSource.java:351] - HikariPool-14 - Shutdown completed.
